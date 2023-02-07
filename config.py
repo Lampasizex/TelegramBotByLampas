@@ -3,4 +3,4 @@ exchanges = {
     'евро': 'EUR',
     'рубль': 'RUB'
 }
-TOKEN = "5603048885:AAGj_M4EHtXioRp26Guy4kI0o7QJYoCMnBU"
+TOKEN = "Here should be yout token which you got after creating your bot at botfather in telegram"
